@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010820210705",
+    "project_id": "laggo-37bdc",
+    "storage_bucket": "laggo-37bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010820210705:android:bdc9c1e7a4cca8399091b0",
+        "android_client_info": {
+          "package_name": "com.laggo.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010820210705-7nboke5c6tt6p6n45g9dp3mb85fq1vij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laggo.auth",
+            "certificate_hash": "1270dcf445dd0ab0d9c4ad65b77c5e2909eadfea"
+          }
+        },
+        {
+          "client_id": "1010820210705-t12t7r3lofacmnlu5tkqei4bf70tk3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVfn5ZmeJSq473DafJFZjjghKgpl1bNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010820210705-t12t7r3lofacmnlu5tkqei4bf70tk3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
